@@ -1,0 +1,7 @@
+{
+    "dependencies": {
+        "@jscad/modeling": "^2.11.0",
+        "geojson-to-svg": "^1.0.3",
+        "json-stringify-pretty-compact": "^4.0.0"
+    }
+}
